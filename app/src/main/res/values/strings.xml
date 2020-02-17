@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidToolBox</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="isenImg" />
+    <string name="bj">Bonjour</string>
+    <string name="imageWeb" />
+    <string name="imagePhone" />
+    <string name="imageSD" />
+    <string name="imageConv" />
+    <string name="cdv">Cycle de vie</string>
+    <string name="sauvegarde">Sauvegarde</string>
+    <string name="permissions">Permission</string>
+    <string name="websvc">Web Services</string>
+    <string name="quitter">Quitter</string>
+    <string name="callNameId">Name</string>
+    <string name="phoneNumberCell">phone_number</string>
+    <string name="DisplayNameCell">placeHolder</string>
+    <string name="displayPhoneCell">placeHolder</string>
+    <string name="DisplayIdCell">placeHolder</string>
+    <string name="IdCell">id</string>
+</resources>
